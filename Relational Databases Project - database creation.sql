@@ -1,3 +1,4 @@
+-- This project contains only fictional information
 /* Q1. DATABASE setup */
 -- Table Creation
 -- Sales_person table creation
@@ -16,8 +17,8 @@ BEGIN
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Ollie','Suarez','0871234332', 'ollie_suarez@mycomp.com', '32 Belfield, Dublin 4, Ireland');
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Sandra','Marie','0871234554', 'sandra_marie@mycomp.com', '36 Stillorgan, Dublin 4, Ireland');
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Eoin','McBeth','0871190552', 'eoin_mcbeth@mycomp.com', '14 Donnybrook, Dublin 4, Ireland');
-INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Andrew','Slaymaker','0831494554', 'andrew_slaymaker@mycomp.com', ' 36 Emmet Road, Dublin 8, Ireland');
-INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Joan','Hodge','0891494674', 'joan_hodge@mycomp.com', '36 Oconnel st, Dublin 2, Ireland');
+INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Andrew','Sl','0831494554', 'andrew_slaymaker@mycomp.com', ' 36 Emmet Road, Dublin 8, Ireland');
+INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Joan','Hode','0891494674', 'joan_hodge@mycomp.com', '36 Oconnel st, Dublin 2, Ireland');
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Martin','Oneill','0821234678', 'martin_oneill@mycomp.com', '36 Pembroke Rd, Dublin 3, Ireland');
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Henry','Cavil','0831234567', 'henry_cavil@mycomp.com', '5 Baggott st, Dublin 3, Ireland');
 INSERT INTO SALES_PERSON (Fname, Lname, tel_no, emailID, address) VALUES ('Maria','Heart','0821235438', 'maria_heart@mycomp.com', '8 Grafton st, Dublin 2, Ireland');
@@ -132,9 +133,9 @@ INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (513, 'Ma
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (514, 'Mark James', '0831123213', 'mjames@heineken.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (515, 'Grant Mar', '0831123678', 'gmar@irfu.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (516, 'Niamh Brothar', '0835654578', 'n.brothar@laser.ie');
-INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (517, 'James Joyce', '0831123888', 'jjoyce@masters.ie');
+INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (517, 'James Je', '0831123888', 'jjoyce@masters.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (518, 'Neil Borg', '0878787654', 'neil_borg@adidas.ie');
-INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (519, 'Ozzie Osbourne', '0831178787', 'ozzie@oxfam.ie');
+INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (519, 'Ozzie Oourne', '0831178787', 'ozzie@oxfam.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (511, 'Rob Power', '0838989898', 'rob_power@jacobs.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (514, 'Lizzie Eel', '0831198765', 'l.eel@heineken.ie');
 INSERT INTO CONTACT_PERSON (customerID, cname, tel_no, emailID) VALUES (515, 'Mark Jacobs', '0832178901', 'm.jacobs@irfu.ie');
